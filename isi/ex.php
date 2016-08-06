@@ -1,1 +1,1 @@
-aku sih oke
+aku sih oke tidakk

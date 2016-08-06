@@ -1,5 +1,5 @@
 <?php
-// Koneksi Ke DAtabase
+// Koneksi Ke DAtabasenyaaaaaaaaa
 $server = "127.0.0.1";
 $user = "root";
 $password = "";
