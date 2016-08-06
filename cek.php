@@ -19,7 +19,7 @@ if (isset($error)) {
 		$data .= "$k : $v<br />";
 	}
 
-	echo '<b>Form berhasil disubmit. Berikut ini data anda:</b><br />';
+	echo '<b>Form berhasil disubmit. Berikut ini data anda: oke</b><br />';
 	echo $data;
 }
 die();
