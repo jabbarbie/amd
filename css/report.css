@@ -1,0 +1,83 @@
+#wrapper #border td{
+
+}
+#wrapper {
+    width: 100%;
+    margin: auto;
+}
+#wrapper2 {
+    width: 792px;
+
+    margin: auto;
+}
+.noborder th {
+	border: 1px solid #000;
+}
+body,td,th {
+		font-family: arial;
+        font-size: 12px;
+
+}
+td {
+	height: 20px;
+
+}
+.hide {
+    display: none;
+}
+.judul {
+    padding: 3px;
+    text-align: center;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+
+
+}
+.white {
+    color: #fff;
+}
+.kanan {
+
+	float: right;
+}
+.kiri {
+        float: left;
+}
+img {
+	margin-left: 5px;
+}
+
+.sepuluh {
+	font-size: 8px;
+}
+.besar {
+    height: 3px;
+}
+.norangka {
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    border: 1px #000 solid;
+}
+h1{
+	height: 13px;
+
+}
+h3 {
+	font-size: 12px;
+}
+h4{
+	height:2px;
+	font-size: 9px;
+
+}
+hr {
+	border: 1px double #000;
+}
+.stempel {
+  width: 200px;
+  position: absolute;
+  right: 0;
+  bottom: 50px;
+}
