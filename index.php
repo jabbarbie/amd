@@ -7,7 +7,7 @@ include ("function/tanggal.php");
 ?>
 <html>
   <head>
-    <title>AMD | System</title>
+    <title>AMD | Systemesnya</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel='ICON' type='image/x-icon' href="img/icon.ico" />
     <!-- Bootstrap -->
