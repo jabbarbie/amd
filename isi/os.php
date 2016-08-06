@@ -1,5 +1,5 @@
 <?php
-	// Set Nilai Post jika pencarian tidak di inputkan
+	// Set Nilai Post jika pencarian tidak di inputkan ya
 	$asuransi	= 'Semua';
 	$bulan		= '';
 	$ntahun		= '';
