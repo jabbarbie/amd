@@ -1,7 +1,7 @@
 <?php
 //validasi
 if (trim($_POST['nama']) == '') {
-	$error[] = '- Nama harus diisi';
+	$error[] = '- Nama harus diisii';
 }
 if (isset($error)) {
 	echo '<b>Error</b>: <br />'.implode('<br />', $error);
