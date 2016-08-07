@@ -1,0 +1,1 @@
+ini bukanya dari notepad++
