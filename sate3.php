@@ -1,1 +1,1 @@
-ini bukanya dari notepad++
+ bukanya dari notepad++
